@@ -1,9 +1,13 @@
 _repo: Viehattava-rouva-ym-luonnekuvia_50891
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Soini, Lauri
     gutenberg_agent_id: '42573'
     url: http://www.gutenberg.org/2009/agents/42573
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/173
     wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50891#Viehattava-rouva-ym-luonnekuvia
 gutenberg_issued: '2016-01-10'
 gutenberg_type: Text
 identifiers:
